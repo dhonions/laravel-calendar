@@ -1,6 +1,6 @@
 {
-    "name": "donions/laravel-calendar",
-    "description": "Laravel helper for FullCalendar.io forked from acaronlex/laravel-calendar to install on Laravel 9",
+    "name": "adamthehutt/laravel-calendar",
+    "description": "Laravel helper for FullCalendar.io forked from acaronlex/laravel-calendar and dhonions/laravel-calendar to install on Laravel 10",
     "license": "MIT",
     "type": "package",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=8.0.2",
-        "illuminate/support": "^8.75 || ^9.0"
+        "illuminate/support": "^9.0 || ^10.0"
     },
     "autoload": {
         "psr-4": {
