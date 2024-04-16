@@ -1,8 +1,8 @@
 # Laravel 9 Full Calendar 5 Helper
 
----------------------------------
-NOTE: For Laravel 10 version - use dhonions/laravel-10-full-calendar
----------------------------------
+
+#NOTE: For Laravel 10 version - use dhonions/laravel-10-full-calendar
+
 
 ##This package is forked from acaronlex/laravel-calendar with a simple composer update to allow install on Laravel 9.
 
